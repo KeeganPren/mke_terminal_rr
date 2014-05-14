@@ -1,5 +1,5 @@
 # Resrouce Checklist
-1. How much time (and energy) do you really have to work on the layout?  If you have a young family, a career, that demands many hours, and several kids in little league, that should be factored in before biting off a huge scope.
+1. How much time (and energy) do you really have to work on the layout?  If you have a young family, a career that demands many hours, and several kids in little league, that should be factored in before biting off a huge scope.
   * Between work and the kids I can only realistically give a few hours a week at best, including weekends.
   * The amount of time that can be given on weekends will fluctuate with various other projects that need to be completed on the house.
 
