@@ -1,3 +1,4 @@
+# Interest Checklist
 1. Which aspect of model railroading interests you the most: operations, structures, rolling stock, scenery, or all equally?
 
 2. What era appeals to you the most?  Have you done an immdiate leap to the steam-to-diesel transition era and been overly quick to dismiss other eras which you might enkoy more?  Have you taken a hard look at the many benefits of modeling the modern era?
