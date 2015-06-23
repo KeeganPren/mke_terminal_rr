@@ -13,6 +13,7 @@ For my purposes, structures and industries that are representative of the region
 
 ##Local Industries
 The following is a selection of local industries that can serve as inspiration for the industries to be modeled on the layout.  Each industry is presented with brief description as well as some pros and cons of using that industry on the layout.
+
 1. Hansen Storage
 2. Miller Compressing
 3. Wayne Pigments
