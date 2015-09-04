@@ -14,17 +14,17 @@ For my purposes, structures and industries that are representative of the region
 ##Local Industries
 The following is a selection of local industries that can serve as inspiration for the industries to be modeled on the layout.  Each industry is presented with brief description as well as some pros and cons of using that industry on the layout.
 
-1. Hansen Storage
-2. Miller Compressing
-3. Wayne Pigments
-4. TSI
-5. Badger Mining (gone)
-6. Cargil
-7. LaFarge Cement
-8. Talgo
-9. Bliffert
-10. Northern Railcar
-11. Elementis Chemical
-12. Benz Oil
-13. Moore Oil
-14. Solenis (Ashland Chemical)
+1. Hansen Storage - Not very interesting architecturally, but compact and served by modern boxcars for paper warehousing
+2. Miller Compressing - easy to model, relatively compact
+3. Wayne Pigments - great candidate to put on a layout, compact and makes use of multiple car types (tankcar and boxcar)
+4. TSI - served by interesting loads on flat cars, they repair retarders and other track components
+5. Badger Mining (gone) - Mostly interesting in historical context, served by covered hoppers and one of my first memories of WSOR
+6. Cargil - cool port scene, mostly salt service, 40' hoppers are short so more of them fit on the layout
+7. LaFarge Cement - another port industry, simple facility to model and also uses the shorter 40' hoppers
+8. Talgo - may be too big to put on my layout, but would be an interesting way to model passenger equipment
+9. Bliffert - receives lumber and building material in boxcars and centerbeam flatcars
+10. Northern Railcar - ran a wheel shop which made for some interesting loads of railcar wheels and occasional gondolas of scrap
+11. Elementis Chemical - Architecturally the chemical plants are interesting to look at and they are typically served by smaller tankcars
+12. Benz Oil - industrial lubricant company receives 50' tank cars, sits at a location that I remember as a kid back when it was served by Soo Line
+13. Moore Oil - Another industrial lubricant distributor compact and easy to model
+14. Solenis (Ashland Chemical) - A larger chemical plant, architecturally maybe interesting to look at, but may be too big
