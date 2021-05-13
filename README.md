@@ -10,5 +10,7 @@ If possible, I'd like to accommodate some passenger trains.  I love Metra and th
 
 ## Additional Notes
 So why is this on GitHub?  Well, as an experiment really.  As many people have embraced CAD for designing model railroads taking advantage of a revision control system seems like a natural step.  Also being a software engineer by training, I can't help it.
+
 I'm also working directly from the design methodology outlined in [Lance Mindheim's book](https://lancemindheim.com/book-store/) How To Design A Small Switching Layout.  This is where all of the checklists come from, as well as some of the notes that reflect various design considerations come from.  As a novice layout designer this has been a helpful template for making sure I consider all of the various aspects of layout design.
+
 Do you think model railroaders will embrace this?  Not really.  Tools like this are built for software developers.  Unless you are familiar with certain development concepts and have a certain proficiency and comfort using certain computer tools using git to manage a model railroad design project may feel incredibly awkward.  If this gains some traction in the model railroad community cool, if not, oh well it works for me...
