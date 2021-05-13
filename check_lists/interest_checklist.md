@@ -10,8 +10,8 @@
 
 3. What theme appeals to you most?  (geographic location, a specific railroad, etc.)  In my experience we often make a quick jump here.  Have you examined all of the possibilities that are available to you?  If you are stuck, ask around for ideas.
   * I'm most attached to the location.  I want it to represent home.
-  * Making it resemble home but not so obviously Milwaukee would be nice to I can change out motive power for some of the Chicago/Indiana roads like BRC, IHD, South Shore Line, etc.
-  * There are a handful of themes that I could work with.  The [list of themes]("theme_list.md") has been identified with its pros and cons.
+  * Making it resemble home but not so obviously Milwaukee.  It would be nice if I can change out motive power for some of the Chicago/Indiana roads like BRC, IHD, South Shore Line, etc.
+  * Similarly, being able to stretch the era slightly will allow me to keep the same location, but switch up the roads, i.e. Milwaukee Road, Soo, CP.
 
 4. In terms of operations which do you enjoy the most: yard classification, industry spotting, or a mix?  Maybe you just want some casual shuttling back and forth.  Some people don't need any operations at all and just want a diorama with some movement.
   * I mostly like industrial switching.
@@ -32,4 +32,4 @@
 
 8. Do you want an exact replica of a real location, a general representation of an actual area, or will you freelance and area?
   * Space will not allow for an exact replica, but being able to give the impression of certain specific locations would be good.
-  * Areas to use for inspiration include, the Menominee River swing bridge, the 5th Ward, WSOR's North Milwaukee yard.
+  * Areas to use for inspiration include, the Menominee River swing bridge, the 5th Ward, WSOR's North Milwaukee yard, Chicago commuter stations on the UPN line, the Port of Milwaukee.
