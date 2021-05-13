@@ -4,7 +4,7 @@
   * Operations is a secondary interest, in that I don't mind just moving cars around, but if I want to complete a switch list once in a while it would be nice to have actual industries and car spots to work with.
   * Scenery I find frustrating, I want it detailed, but don't have a lot of experience working on it.
 
-2. What era appeals to you the most?  Have you done an immediate leap to the steam-to-diesel transition era and been overly quick to dismiss other eras which you might enkoy more?  Have you taken a hard look at the many benefits of modeling the modern era?
+2. What era appeals to you the most?  Have you done an immediate leap to the steam-to-diesel transition era and been overly quick to dismiss other eras which you might enjoy more?  Have you taken a hard look at the many benefits of modeling the modern era?
   * I'm definitely into modeling the modern era.
   * The earliest I'd go is to the last 80s since there are vague memories of the Chicago Northwestern and Milwaukee Road around home.
 
@@ -13,7 +13,7 @@
   * Making it resemble home but not so obviously Milwaukee would be nice to I can change out motive power for some of the Chicago/Indiana roads like BRC, IHD, South Shore Line, etc.
   * There are a handful of themes that I could work with.  The [list of themes]("theme_list.md") has been identified with its pros and cons.
 
-4. In terms of operations which do you enjoy the most: yard classification, industry spotting, or a mix?  Maybe you just want some casual shuttling back and forth.  Some people don't need any operations at all and just want a dioramam with some movement.
+4. In terms of operations which do you enjoy the most: yard classification, industry spotting, or a mix?  Maybe you just want some casual shuttling back and forth.  Some people don't need any operations at all and just want a diorama with some movement.
   * I mostly like industrial switching.
   * Having a yard to make up trains for a local would be nice, but space may be an issue.
   * Having extra tracks on the mainline to display static trains for display would be nice.
@@ -32,4 +32,4 @@
 
 8. Do you want an exact replica of a real location, a general representation of an actual area, or will you freelance and area?
   * Space will not allow for an exact replica, but being able to give the impression of certain specific locations would be good.
-  * Areas to use for inspiration include, the Menomonee River swing bridge, the 5th Ward, WSOR's North Milwaukee yard.
+  * Areas to use for inspiration include, the Menominee River swing bridge, the 5th Ward, WSOR's North Milwaukee yard.
